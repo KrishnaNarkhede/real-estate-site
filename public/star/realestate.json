@@ -1,0 +1,53 @@
+{
+  "ESTATE": [
+    {
+      "id": "1",
+      "title": "SIDDHI ARCHID",
+      "location": "Kalda corner ,AURANGABAD, Maharashtra, India",
+      "famousFor": "COMPLEX with shop, Dental clinicand hospital",
+      "image": "image/manali_main.jpg",
+     
+      "rating": "4.5"
+    },
+    {
+      "id": "2",
+      "title": "Shankar Shrushti",
+      "location": "Harsool ,AURANGABAD, Maharashtra, India",
+      "famousFor": "A smart project of 1 & 2BHK flats , Shops & Offices.",
+      "image": "/PROPERTYPRO/buildingicon.png",
+      "rating": "4.5"
+    },
+    {
+      "id": "3",
+      "title": "Gajanan Nagar",
+      "location": "Gandeli ,AURANGABAD, Maharashtra, India",
+      "famousFor": "Ploting where you can design your own dream",
+      "image": "/PROPERTYPRO/SOCIETYICON.png",
+       "rating": "4.5"
+    },
+    {
+      "id": "4",
+      "title": "Gajanan Vihar",
+      "location": "Gandeli ,AURANGABAD, Maharashtra, India",
+      "famousFor": "Scenic trekking destination and rich history",
+      "image": "/PROPERTYPRO/ROWHOUSEICON.png",
+       "rating": "4.5"
+    },
+    {
+      "id": "5",
+      "title": "Lambodhar",
+      "location": "Gandeli ,AURANGABAD, Maharashtra, India",
+      "famousFor": "A smart project of 1 & 2BHK flats , Shops & Offices.",
+      "image": "image/himachal_main.jpg",
+      "rating": "4.5"
+    },
+    {
+      "id": "6",
+      "title": "KEDARNATH",
+      "location": "UTTRAKHAND, India",
+      "famousFor": "Natural beauty, Temple and trekking trails",
+      "image": "image/Kedarnath_main.jpg",
+      "rating": "4.5"
+    }
+  ]
+}

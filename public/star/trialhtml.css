@@ -1,0 +1,91 @@
+
+h2{
+    color: #B78D65;
+}
+
+
+.hero {
+    position: relative;
+    background: url('https://via.placeholder.com/1920x600') no-repeat center center;
+    background-size: cover;
+    color: rgb(248, 251, 251);
+    padding: 100px 0;
+}
+
+.hero::after {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: rgba(0, 0, 0, 0.5); /* Dark overlay */
+}
+
+.hero .container {
+    position: relative;
+    z-index: 1; /* Bring content above overlay */
+}
+
+.section {
+    padding: 60px 0;
+}
+
+#description {
+    background-color: rgba(255, 255, 255, 0.9);
+    border-radius: 8px;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.2);
+    padding: 40px 20px;
+    margin-bottom: 20px;
+}
+
+#description h2 {
+    color: #B78D65;
+    margin-bottom: 20px;
+   font-family: 'Georgia', serif;
+    font-size: 2.5rem;
+}
+
+#description p {
+   line-height: 1.8;
+   font-size: 1.2rem;
+   color: #333;
+}
+
+
+.gallery img {
+    width: 100%;
+    height: 420px;
+    object-fit: cover;
+    border: 5px solid #B78D65; 
+    border-radius: 120px;
+}
+
+
+#travel, #more {
+    background-color: rgba(255, 255, 255, 0.8);
+    border-radius: 8px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+    padding: 40px 20px;
+    margin-bottom: 20px;
+}
+
+#travel h2, #more h2 {
+    color: #B78D65;
+    margin-bottom: 20px;
+}
+
+.travel-card {
+    margin-bottom: 20px; /* Space between cards */
+    border: 3px solid #B78D65; 
+    transition: background-color 0.3s ease; /* Smooth transition */
+}
+
+.travel-card:hover {
+    background-color: #f0f0f0; /* Grey background on hover */
+}
+
+#more p {
+    line-height: 1.6;
+    font-size: 1.1rem;
+}

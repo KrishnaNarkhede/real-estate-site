@@ -1,0 +1,211 @@
+[
+  {
+    "id": "1",
+    "title": "SIDDHI ARCHID",
+    "description": "Explore Manali, a breathtaking Himalayan paradise with stunning landscapes and thrilling adventures. From snow-capped peaks to vibrant culture, this charming hill station offers unforgettable experiences year-round, perfect for both adventure seekers and tranquility lovers alike. With activities like trekking, paragliding, and serene nature walks, theres something for everyone in this captivating destination!",
+    "background_image": "image/manali_0.jpeg",
+    "images": [
+      "image/manali_1.jpg",
+      "image/manali_2.jpg",
+      "image/manali_3.jpg"
+    ],
+    "location": "Kalda corner ,AURANGABAD, Maharashtra, India",
+     "map_url":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d339344.6062022484!2d77.10731034826712!3d32.23913830984453!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3909c159abf0f731%3A0x8bc21bc5cdde3d97!2sManali%2C%20Himachal%20Pradesh!5e0!3m2!1sen!2sin!4v1696520986040!5m2!1sen!2sin",
+    
+    "SERVICES_options": [
+      {
+        "services": "24hr round the clock services"
+       
+      },
+      {
+        "services": "Bus"
+        
+      },
+      {
+        "services": "Car"
+      },
+      {
+        "services": "Car"
+      },
+      {
+        "services": "Car"
+      }
+    ],
+   
+    "more_info": "Manali, a picturesque hill station in the Himalayas, is famous for its snow-capped peaks, lush valleys, and adventure activities. Visitors can indulge in skiing, trekking, and river rafting, or relax by the scenic Beas River. With its rich culture, stunning landscapes, and year-round appeal, Manali is a perfect destination for both thrill-seekers and those looking to unwind!"
+  },
+  {
+    "id": "2",
+    "title": "OOTY",
+    "description": "Discover Ooty, the Queen of Hill Stations, nestled in the scenic Nilgiri Hills. Famous for its lush tea gardens, tranquil lakes, and cool climate, Ooty is a haven for nature lovers and adventure seekers alike. Explore the charming colonial architecture, vibrant markets, and breathtaking views from Doddabetta Peak. Whether you're seeking relaxation or exploration, Ooty promises an unforgettable escape year-round",
+    "background_image": "image/ooty_0.jpg",
+    "images": [
+     "image/ooty_1.jpg",
+     "image/ooty_2.jpg",
+     "image/ooty_3.jpg"
+    ],
+    "location": "TAMIL NADU, India",
+    "map_url": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d391757.7552223747!2d76.66272711633826!3d11.409140900000002!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ba01bbdbfc5c4a1%3A0xa500cfdff574f1b6!2sOoty%2C%20Tamil%20Nadu!5e0!3m2!1sen!2sin!4v1696520986040!5m2!1sen!2sin",
+    "SERVICES_options": [
+      {
+        "services": "24hr round the clock services"
+       
+      },
+      {
+        "services": "Bus"
+        
+      },
+      {
+        "services": "Car"
+      },
+      {
+        "services": "Car"
+      },
+      {
+        "services": "Car"
+      }
+    ],
+   
+    "more_info": "Ooty, nestled in the Nilgiri Hills, is renowned for its lush landscapes, picturesque gardens, and cool climate. Visitors can enjoy scenic boat rides on Ooty Lake, explore the stunning Botanical Gardens, and take a ride on the historic Nilgiri Mountain Railway. With charming colonial architecture and vibrant local culture, Ooty is a perfect retreat for nature lovers and adventure seekers alike!"
+  },
+  {
+    "id": "3",
+    "title": "LAKSHDWEEP",
+    "description": "Discover Lakshadweep, a stunning archipelago of 36 islands adorned with pristine beaches and vibrant coral reefs. Known for its crystal-clear waters and rich marine life, it's a paradise for snorkeling, scuba diving, and relaxing by the sea. Experience the unique local culture, delicious seafood, and warm hospitality of this tropical haven. Perfect for a serene getaway, Lakshadweep invites you to unwind in its unspoiled beauty!",
+    "background_image":  "image/lakshdweep_0.jpg",
+    "images": [
+       "image/lakshdweep_1.jpg",
+        "image/lakshdweep_2.jpg",
+     "image/lakshdweep_3.jpg"
+    ],
+    "location": "Kerla, India",
+    "map_url": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d198708.70251292953!2d72.61097538487396!3d10.566921843180566!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3b06beee41771c9d%3A0x16381d1464c0b5b5!2sLakshadweep!5e0!3m2!1sen!2sin!4v1696520986040!5m2!1sen!2sin",
+    "SERVICES_options": [
+      {
+        "services": "24hr round the clock services"
+       
+      },
+      {
+        "services": "Bus"
+        
+      },
+      {
+        "services": "Car"
+      },
+      {
+        "services": "Car"
+      },
+      {
+        "services": "Car"
+      }
+    ],
+    
+    "more_info": "Lakshadweep is a breathtaking archipelago in the Arabian Sea, known for its pristine beaches and vibrant coral reefs. Ideal for snorkeling and relaxation, it offers a unique blend of rich local culture and delicious seafood. Perfect for a serene getaway, Lakshadweep invites you to unwind in its natural beauty"
+  },
+  {
+    "id": "4",
+    "title": "LEH LEDAKH",
+    "description": "Leh-Ladakh is a breathtaking high-altitude region in northern India, renowned for its dramatic landscapes and ancient monasteries. Adventure seekers can explore stunning terrains through trekking, biking, and river rafting. With its rich culture and serene beauty, Leh-Ladakh offers an unforgettable experience for travelers in search of both thrill and tranquility.",
+    "background_image": "image/lehladakh_0.jpg",
+    "images": [
+      "image/lehladakh_1.jpg",
+       "image/lehladakh_2.jpg",
+        "image/lehladakh_3.jpg"
+    ],
+    "location": "LEH LEDAKH, India",
+    "map_url":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d338285.8824986871!2d78.71536097996439!3d34.15258117819472!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390585c62d2f6bb1%3A0xb491405e45c77e57!2sLeh%2C%20Ladakh!5e0!3m2!1sen!2sin!4v1696520986040!5m2!1sen!2sin",
+    "SERVICES_options": [
+      {
+        "services": "24hr round the clock services"
+       
+      },
+      {
+        "services": "Bus"
+        
+      },
+      {
+        "services": "Car"
+      },
+      {
+        "services": "Car"
+      },
+      {
+        "services": "Car"
+      }
+    ],
+   
+    "more_info": "Leh-Ladakh, a breathtaking region in northern India, is known for its stunning landscapes, high-altitude deserts, and serene monasteries. Adventure enthusiasts can explore rugged terrains, go trekking, or bike along the iconic Manali-Leh Highway. With its unique culture, rich history, and mesmerizing vistas, Leh-Ladakh offers an unforgettable experience for travelers seeking tranquility and adventure"
+  },
+  {
+    "id": "5",
+    "title": "HIMACHAL",
+    "description": "Himachal Pradesh is a stunning northern Indian state known for its majestic mountains, lush valleys, and charming hill stations. From the adventure hub of Manali to the serene beauty of Dharamshala, it offers a diverse landscape perfect for trekking, skiing, and cultural exploration. Rich in heritage, Himachal showcases vibrant local traditions and delicious cuisine, making it an ideal destination for nature lovers and adventure seekers alike",
+    
+    "background_image": "image/himachal_0.jpg",
+    "images": [
+      "image/himachal_1.jpg",
+      "image/himachal_2.jpg",
+      "image/himachal_3.jpg"
+
+     
+    ],
+    "location": "HIMACHAL PRADESH, India",
+    "map_url": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d345883.46593055296!2d77.7978801230956!3d31.10445731993978!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3905d68a3784e92f%3A0x72094d5f02da0c26!2sHimachal%20Pradesh!5e0!3m2!1sen!2sin!4v1696520986040!5m2!1sen!2sin",
+    "SERVICES_options": [
+      {
+        "services": "24hr round the clock services"
+       
+      },
+      {
+        "services": "Bus"
+        
+      },
+      {
+        "services": "Car"
+      },
+      {
+        "services": "Car"
+      },
+      {
+        "services": "Car"
+      }
+    ],
+   
+    "more_info": "Himachal Pradesh is celebrated for its diverse geography, ranging from the snow-capped peaks of the Himalayas to verdant valleys and apple orchards. The state is home to numerous trekking routes, quaint villages, and spiritual sites, including ancient temples and monasteries. With its pleasant climate and rich cultural heritage, Himachal offers a perfect blend of adventure, tranquility, and local charm for travelers"
+  },
+  {
+    "id": "6",
+    "title": "KEDARNATH",
+    "description": "Kedarnath, a revered pilgrimage site in the Garhwal Himalayas, is home to the ancient Kedarnath Temple dedicated to Lord Shiva. Surrounded by majestic mountains and lush landscapes, it attracts thousands of devotees and trekkers each year. Accessible via a scenic trek or helicopter, Kedarnath offers a unique blend of spiritual significance and breathtaking natural beauty.",
+    "background_image":  "image/KEDARNATH_0.jpg",
+    "images": [
+      "image/KEDARNATH_1.jpg",
+      "image/KEDARNATH_2.jpg",
+      "image/KEDARNATH_3.jpg"
+    ],
+    "location": "uttarakhand, India",
+    "map_url": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d195825.64709797245!2d79.06324660914703!3d30.731368205224255!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x390956e7899a81bb%3A0x37838d1b4c6aeab9!2sKedarnath!5e0!3m2!1sen!2sin!4v1696520986040!5m2!1sen!2sin",
+    "SERVICES_options": [
+      {
+        "services": "24hr round the clock services"
+       
+      },
+      {
+        "services": "Bus"
+        
+      },
+      {
+        "services": "Car"
+      },
+      {
+        "services": "Car"
+      },
+      {
+        "services": "Car"
+      }
+    ],
+   
+    "more_info": "Kedarnath, nestled in the Garhwal Himalayas of Uttarakhand, is one of the four sacred shrines in the Char Dham pilgrimage, dedicated to Lord Shiva. The iconic Kedarnath Temple, set against a stunning mountain backdrop, attracts thousands of pilgrims and trekkers each year. Accessible by a scenic trek or helicopter ride, Kedarnath offers breathtaking views and a serene spiritual atmosphere, making it a must-visit destination for devotees and nature lovers alike."
+  }
+   
+]
