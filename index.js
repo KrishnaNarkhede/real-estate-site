@@ -42,7 +42,7 @@ app.post('/book_appointment', (req, res) => {
     db.query(sql, [name, email, mobile, service_type, appointment_date, appointment_time, message], (err, result) => {
         if (err) {
             console.error("Error executing query", err);
-            res.status(500).send("Error booking appointment");
+            res.status(500).send(`Error booking appointment ${err}`);
         } else {
             res.send("Appointment booked successfully!");
         }
@@ -58,7 +58,7 @@ app.post('/process_contact', (req, res) => {
     db.query(sql, [name, email, subject, message], (err, result) => {
         if (err) {
             console.error("Error executing query", err);
-            res.status(500).send("Error submitting message");
+            res.status(500).send(`Error submitting message ${err}`);
         } else {
             res.send("Message sent successfully!");
         }
