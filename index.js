@@ -10,7 +10,7 @@ const app = express();
 const port = process.env.PORT || 8080;
 
 // Middleware to parse incoming form data
-app.use(bodyParser.urlencoded({ extended: true }));
+app.use(bodyParser.urlencoded({ extended: false }));
 app.use(bodyParser.json());
 
 // Serve static files (HTML, CSS, JS) from the "public" directory
