@@ -68,14 +68,14 @@ CREATE TABLE `contacts` (
 --
 
 INSERT INTO `contacts` (`id`, `name`, `email`, `subject`, `message`, `created_at`) VALUES
-(1, 'Srushti', 'srushtinogja@gmail.com', 'sdvfdv', 'sdbfdnb', '2024-10-20 14:41:56'),
-(2, 'Srushti', 'admin@gmail.com', 'sdvfdv', 'adesgfhd', '2024-10-21 06:16:50'),
-(3, 'Srushti', 'admin@gmail.com', 'sdvfdv', 'adesgfhd', '2024-10-21 06:18:57'),
+(1, 'Krishna', 'krishna.narkhede23@gmail.com', 'sdvfdv', 'sdbfdnb', '2024-10-20 14:41:56'),
+(2, 'Krishna', 'admin@gmail.com', 'sdvfdv', 'adesgfhd', '2024-10-21 06:16:50'),
+(3, 'Krishna', 'admin@gmail.com', 'sdvfdv', 'adesgfhd', '2024-10-21 06:18:57'),
 (7, '', '', '', '', '2024-10-21 10:44:02'),
 (8, '', '', '', '', '2024-10-21 10:44:08'),
 (9, '', '', '', '', '2024-10-21 10:44:33'),
 (10, '', '', '', '', '2024-10-21 10:46:30'),
-(11, 'Srushti', '', '', '', '2024-10-21 10:48:31'),
+(11, 'krishna', '', '', '', '2024-10-21 10:48:31'),
 (12, '', '', '', '', '2024-10-21 10:49:07'),
 (13, '', '', '', '', '2024-10-21 10:51:00'),
 (14, '', '', '', '', '2024-10-21 10:52:18'),
@@ -85,7 +85,7 @@ INSERT INTO `contacts` (`id`, `name`, `email`, `subject`, `message`, `created_at
 (19, '', '', '', '', '2024-10-21 11:37:25'),
 (20, '', '', '', '', '2024-10-21 12:05:35'),
 (21, '', '', '', '', '2024-10-21 13:00:13'),
-(22, 'Srushti', 'admin@gmail.com', 'sdvfdv', 'gfdhdhh', '2024-10-21 13:00:23'),
+(22, 'krishna', 'admin@gmail.com', 'sdvfdv', 'gfdhdhh', '2024-10-21 13:00:23'),
 (23, 'dgd', 'admin@gmail.com', 'zcXxb', 'cxbvcnvb', '2024-10-21 13:10:48');
 
 --
